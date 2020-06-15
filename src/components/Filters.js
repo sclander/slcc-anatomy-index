@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux';
 
 function Filters() {
     return (
-        <div class="filters">
+        <div className="filters">
             <p>Filters</p>
         </div>
     );

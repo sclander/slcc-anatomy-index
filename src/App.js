@@ -2,7 +2,7 @@ import React from 'react';
 import './App.scss';
 
 import Filters from './components/Filters';
-import SearchBar from './components/SearchBar';
+import SearchBar from './components/searchBar/SearchBar';
 
 function App() {
   return (
