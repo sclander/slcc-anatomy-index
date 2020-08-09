@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9a9c8e1d4a6ff1529f1981b11a33060",
+    "revision": "74acc99350d1c7c76c58914a84c2876d",
     "url": "/slcc-anatomy-index/index.html"
   },
   {
-    "revision": "4dc8d69122ecb99f94fc",
-    "url": "/slcc-anatomy-index/static/css/main.81c19209.chunk.css"
+    "revision": "96c7fa46edaf8585f228",
+    "url": "/slcc-anatomy-index/static/css/main.e3c26ee1.chunk.css"
   },
   {
     "revision": "71193d9bd016ec309c52",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/slcc-anatomy-index/static/js/2.4c83e28a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4dc8d69122ecb99f94fc",
-    "url": "/slcc-anatomy-index/static/js/main.6e5d349f.chunk.js"
+    "revision": "96c7fa46edaf8585f228",
+    "url": "/slcc-anatomy-index/static/js/main.6f65e210.chunk.js"
   },
   {
     "revision": "efedc3d1ad0dcadcce24",
